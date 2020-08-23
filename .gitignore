@@ -1,0 +1,15 @@
+Library/
+
+Temp/
+
+\.vs/
+
+obj/
+Build/
+SwitchIL2CPPCache/
+SwitchIL2CPPStats/
+
+*.sln
+
+*.csproj
+.idea
